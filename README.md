@@ -45,12 +45,14 @@ https://youtu.be/mV6k7wrtUsI
 		live_vocals_denoised.wav  
 		studio_vocals_denoised.wav  
 4 audio-sync  
+    Warps studio audio to synchronize it with the live audio  
 	Input:   
 		live_vocals_denoised.wav  
 		studio_vocals_denoised.wav  
 	Output:   
 		studio_vocals_warped.wav  
 5 pitch-extraction  
+    Extracts pitch from audio  
 	Input:   
 		live_vocals_denoised.wav  
 		studio_vocals_warped.wav  
