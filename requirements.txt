@@ -1,0 +1,23 @@
+# Core libraries
+librosa
+numpy
+soundfile
+pydub
+noisereduce
+yt_dlp
+re
+unicodedata
+scipy
+dtw
+pyqtgraph
+vlc
+
+# For vocal separation (used via subprocess)
+demucs
+
+# System and utility dependencies (Python stdlib, listed for clarity)
+# os
+# sys
+# subprocess
+# shutil
+# time

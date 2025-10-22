@@ -1,5 +1,7 @@
 VocalCompare is a project for comparing live vocal performances to a song's studio recording.
 
+Demo Video: https://youtu.be/mV6k7wrtUsI
+
 Open VocalCompare.py to begin your vocal comparison journey!
 
 1 dl-files

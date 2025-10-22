@@ -1,3 +1,0 @@
-song_name=DANDADAN OPENING OTONOKE LIVE PERFORMANCE CREEPY NUTS
-studio_start=6.045
-live_start=0.079

@@ -1,3 +1,0 @@
-song_name=Amy Winehouse - Valerie - Live HD
-live_start=2.515
-studio_start=8.507

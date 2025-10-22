@@ -1,3 +1,0 @@
-song_name=default
-live_start=0.0
-studio_start=0.0
